@@ -19,3 +19,6 @@ Browser DevTools
 ## Phase 1 Checklist
 ✅ VS Code is installed and set up with Prettier and Live Server
 ✅ I can write the 10 basic terminal commands without searching
+✅ I understand the add/commit/push cycle, and my repo is live on GitHub
+✅ I've written this README in Markdown and enabled GitHub Pages
+✅ I can explain the Request/Response cycle and the role of DNS to a non-technical person
