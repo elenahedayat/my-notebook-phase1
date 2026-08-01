@@ -13,3 +13,6 @@ VS Code
 Prettier (VS Code extension)
 Live Server (VS Code extension)
 Git 
+GitHub account 
+Terminal (Git Bash)
+Browser DevTools
