@@ -2,3 +2,6 @@
 # My Path Notebook
 ## About Me
 I'm a 6th-semester Computer Engineering student at Amirkabir University of Technology (Tehran Polytechnic).I have a strong interest in web development, and I'm currently going through a structured training program to build my skills from the ground up.
+## My 3-Month Goals
+- Build a solid foundation in web development fundamentals: environment setup, terminal, and Git
+- Learn front-end development (HTML, CSS, JavaScript) and be able to build responsive, well-structured user interfaces
