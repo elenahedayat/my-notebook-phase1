@@ -16,3 +16,6 @@ Git
 GitHub account 
 Terminal (Git Bash)
 Browser DevTools
+## Phase 1 Checklist
+✅ VS Code is installed and set up with Prettier and Live Server
+✅ I can write the 10 basic terminal commands without searching
