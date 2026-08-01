@@ -8,3 +8,8 @@ I'm a 6th-semester Computer Engineering student at Amirkabir University of Techn
 - Learn back-end development and understand how servers, databases, and APIs work
 - Be able to independently design, build, and deploy a full-stack website — from front-end to back-end
 - Build a portfolio of real projects on GitHub throughout the program
+## Tools Installed
+VS Code 
+Prettier (VS Code extension)
+Live Server (VS Code extension)
+Git 
