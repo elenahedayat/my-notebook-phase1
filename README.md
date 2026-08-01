@@ -5,3 +5,6 @@ I'm a 6th-semester Computer Engineering student at Amirkabir University of Techn
 ## My 3-Month Goals
 - Build a solid foundation in web development fundamentals: environment setup, terminal, and Git
 - Learn front-end development (HTML, CSS, JavaScript) and be able to build responsive, well-structured user interfaces
+- Learn back-end development and understand how servers, databases, and APIs work
+- Be able to independently design, build, and deploy a full-stack website — from front-end to back-end
+- Build a portfolio of real projects on GitHub throughout the program
